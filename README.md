@@ -1,4 +1,4 @@
-# Hacker Rank Web Scraping with Python
+# Hacker News Web Scraping with Python
 
 **Description:**
 
@@ -38,4 +38,4 @@ A Python script developed to streamline the process of collecting and curating a
 
 3. **Scheduled Scraping:** The implementation of scheduled scraping to provide users with a regular feed of popular articles.
 
-The HackerRank Web Scraping with Python project showcases my proficiency in web scraping, data processing, and automation. By offering a convenient way to access articles based on engagement metrics, this script provides a valuable tool for news enthusiasts seeking popular and engaging content.
+The Hacker News Web Scraping with Python project showcases my proficiency in web scraping, data processing, and automation. By offering a convenient way to access articles based on engagement metrics, this script provides a valuable tool for news enthusiasts seeking popular and engaging content.
