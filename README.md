@@ -1,6 +1,6 @@
 # Hacker Rank Web Scraping with Python
 
-**Descrption:**
+**Description:**
 
 A Python script developed to streamline the process of collecting and curating articles from an online news platform based on a predefined criterion, specifically, the number of votes received by each article.
 
